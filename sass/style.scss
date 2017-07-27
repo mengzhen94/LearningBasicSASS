@@ -2,10 +2,18 @@ $bg: #f2f2f2;
 $ff: 'arial';
 
 @import 'color';
+@import 'maxins';
 
 body{
     background: $bg;
     font-family: $ff;
+}
+
+#box {
+    background: red;
+    @include border-radius(3px);
+    height: 120px;
+    width: 120px;
 }
 
 .container {
