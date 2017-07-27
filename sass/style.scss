@@ -1,0 +1,13 @@
+$bg: #f2f2f2;
+$ff: 'arial';
+
+body{
+    background: $bg;
+    font-family: $ff;
+}
+
+.container {
+    ul li {
+        padding: 10px;
+    }
+}
