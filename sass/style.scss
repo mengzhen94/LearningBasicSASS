@@ -1,6 +1,8 @@
 $bg: #f2f2f2;
 $ff: 'arial';
 
+@import 'color';
+
 body{
     background: $bg;
     font-family: $ff;

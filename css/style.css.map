@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "AAGA,IAAI,GACA,UAAU,EAJT,OAAO,EAKR,WAAW,EAJV,OAAO;;AAQR,gBAAM,GACF,OAAO,EAAE,IAAI",
-"sources": ["../sass/style.scss"],
+"mappings": "AAAA,KAAM,GACF,KAAK,EAAE,MAAM;;AAEjB,IAAK,GACD,KAAK,EAAE,KAAK;;ACChB,IAAI,GACA,UAAU,EANT,OAAO,EAOR,WAAW,EANV,OAAO;;AAUR,gBAAM,GACF,OAAO,EAAE,IAAI",
+"sources": ["../sass/_color.scss","../sass/style.scss"],
 "names": [],
 "file": "style.css"
 }
